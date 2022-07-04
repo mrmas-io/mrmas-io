@@ -1,13 +1,7 @@
 [![Banner](./My_Banner@mrmas.io.png)](https://www.youtube.com/channel/UCcbKeqRCmVkiDFNltFvyBPg?sub_confirmation=1/)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrmas-io&style=flat-square&color=blue" alt="copyrighted content"/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-  </h1>
-</div>
-
+<img src="https://komarev.com/ghpvc/?username=mrmas-io&style=flat-square&color=blue" alt="copyrighted content"/>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 My name is Muhammed Senghore, I am an Electrical Engineering student..
 
 💬 _**Let's Connect on:**_
